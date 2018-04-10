@@ -18,5 +18,5 @@ Step 2. Add the dependency
 	}
 
 
-原项目以及文档地址：https://github.com/bingoogolapple/BGAQRCode-Android
+原项目以及文档地址：https://github.com/bingoogolapple/BGAQRCode-Android</br>
 本项目基于BGAQRCode-Android-1.2.1的版本剥离了ZBar，做了代码精简，使用更简洁。
